@@ -26,3 +26,7 @@ This project is an automated workflow built using **n8n** that fetches user data
 
 ## Demo Video
 [https://drive.google.com/file/d/1vaBVS9MHJTpgGNv-pXfWhKnELM3UptH1/view?usp=sharing]
+
+## Complete workflow
+<img width="1061" height="410" alt="image" src="https://github.com/user-attachments/assets/23cba205-df98-4457-9a2b-1df1721cd20c" />
+
